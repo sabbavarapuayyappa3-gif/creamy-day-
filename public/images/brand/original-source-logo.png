@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en" style="overflow-x: hidden;" data-beasties-container="">
+  <head><base href="/">
+    <title>CREAMY DAY</title>
+    <!-- /SEO Ultimate -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+    <meta charset="utf-8">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/images/creamday/logo.jpeg">
+    <link rel="manifest" href="assets/images/favicon/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="../ms-icon-144x144.html">
+    <meta name="theme-color" content="#ffffff">
+    <!-- Latest compiled and minified CSS -->
+    <link href="assets/bootstrap/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="assets/js/bootstrap.min.js">
+    <!-- Font Awesome link -->
+    <link rel="stylesheet" href="../../cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <!-- StyleSheet link CSS -->
+    <link href="assets/css/swiper-bundle.min.css" rel="stylesheet" type="text/css">
+    <link href="assets/css/style.css" rel="stylesheet" type="text/css">
+    <link href="assets/css/responsive.css" rel="stylesheet" type="text/css">
+    <link href="assets/css/owl.carousel.min.css" rel="stylesheet" type="text/css">
+    <link href="assets/css/owl.theme.default.min.css" rel="stylesheet" type="text/css">
+    <link href="assets/css/aos.css" rel="stylesheet">
+    <link href="assets/css/magnific-popup.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer">
+  <link rel="stylesheet" href="styles-5INURTSO.css"><script>(function(){if(window.__banner_added)return;window.__banner_added=true;var b=document.createElement('div');b.style.cssText='position:relative;z-index:99999;background:linear-gradient(135deg,#d32f2f 0%,#b71c1c 100%);color:#fff;padding:14px 20px;margin:0;text-align:center;font-size:15px;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif;width:100%;max-width:none;box-sizing:border-box;box-shadow:0 2px 4px rgba(0,0,0,0.2);line-height:1.5;display:block;';b.innerHTML='⚠️ Hosting plan for this site has expired. <a href="https://host.godaddy.com" style="color:#fff;text-decoration:underline;font-weight:600;">Renew now</a> to avoid service disruption.';document.addEventListener('DOMContentLoaded',function(){document.body.prepend(b);});})();</script><script>(function(){if(window.__banner_added)return;window.__banner_added=true;var b=document.createElement('div');b.style.cssText='position:relative;z-index:99999;background:linear-gradient(135deg,#d32f2f 0%,#b71c1c 100%);color:#fff;padding:14px 20px;margin:0;text-align:center;font-size:15px;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif;width:100%;max-width:none;box-sizing:border-box;box-shadow:0 2px 4px rgba(0,0,0,0.2);line-height:1.5;display:block;';b.innerHTML='⚠️ Hosting plan for this site has expired. <a href="https://host.godaddy.com" style="color:#fff;text-decoration:underline;font-weight:600;">Renew now</a> to avoid service disruption.';document.addEventListener('DOMContentLoaded',function(){document.body.prepend(b);});})();</script></head>
+
+  <body ngcm="">
+    <app-root></app-root>
+    <!-- <a href="https://api.whatsapp.com/send?phone=9168986666" class="float" target="_blank">
+    <i class="fa fa-whatsapp my-float"></i>
+  </a> -->
+  <script src="polyfills-FFHMD2TL.js" type="module"></script><script src="main-HLD33YZZ.js" type="module"></script></body>
+  <script src="assets/js/jquery-3.7.1.min.js"></script>
+  <script src="assets/js/popper.min.js"></script>
+  <script src="assets/js/swiper-bundle.min.js"></script>
+  <script src="assets/js/swiper.js"></script>
+  <script src="assets/js/bootstrap.min.js"></script>
+  <script src="assets/js/aos.js"></script>
+  <script src="assets/js/owl.carousel.js"></script>
+  <script src="assets/js/carousel.js"></script>
+  <script src="assets/js/animation.js"></script>
+  <script src="assets/js/back-to-top-button.js"></script>
+  <script src="assets/js/preloader.js"></script>
+  <script src="assets/js/counter.js"></script>
+  <script src="assets/js/search.js"></script>
+  <style>
+    .float {
+      position: fixed;
+      width: 60px;
+      height: 60px;
+      bottom: 106px;
+      right: 40px;
+      background-color: #25d366;
+      color: #fff;
+      border-radius: 50px;
+      text-align: center;
+      font-size: 30px;
+      box-shadow: 2px 2px 3px #999;
+      z-index: 100;
+      margin-left: 10%;
+    }
+
+    .my-float {
+      margin-top: 16px;
+    }
+  </style>
+<script>'undefined'=== typeof _trfq || (window._trfq = []);'undefined'=== typeof _trfd && (window._trfd=[]),_trfd.push({'tccl.baseHost':'secureserver.net'},{'ap':'cpbh-mt'},{'server':'sg2plmcpnl510144'},{'dcenter':'sg2'},{'cp_id':'10670160'},{'cp_cl':'8'}) // Monitoring performance to make your website faster. If you want to opt-out, please contact web hosting support.</script><script src='https://img1.wsimg.com/traffic-assets/js/tccl.min.js'></script><script>'undefined'=== typeof _trfq || (window._trfq = []);'undefined'=== typeof _trfd && (window._trfd=[]),_trfd.push({'tccl.baseHost':'secureserver.net'},{'ap':'cpbh-mt'},{'server':'sg2plmcpnl510144'},{'dcenter':'sg2'},{'cp_id':'10670160'},{'cp_cl':'8'}) // Monitoring performance to make your website faster. If you want to opt-out, please contact web hosting support.</script><script src='https://img1.wsimg.com/traffic-assets/js/tccl.min.js'></script></html>

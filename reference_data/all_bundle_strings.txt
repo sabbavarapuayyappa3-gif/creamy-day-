@@ -1,0 +1,427 @@
+Detected cycle in computations.
+${n.length} errors occurred during unsubscription:
+${n.map((r,i)=>
+UnsubscriptionError
+Unable to lift unknown Observable type
+ObjectUnsubscribedError
+object unsubscribed
+Object is not iterable.
+Symbol.iterator is not defined.
+Symbol.asyncIterator is not defined.
+You provided ${e!==null&&typeof e=="object"?"an invalid object":
+} where a stream was expected. You can provide an Observable, Promise, ReadableStream, Array, AsyncIterable, or Iterable.
+Provided object does not correctly implement Symbol.observable
+Iterable cannot be null
+no elements in sequence
+gotpointercapture
+lostpointercapture
+compositionstart
+compositionupdate
+visibilitychange
+on${t.eventType}
+#document-fragment
+I_AM_THE_JSACTION_FRAMEWORK
+propagationStopped
+`preventDefault` called during event replay.
+`composedPath` called during event replay.
+stopImmediatePropagation
+https://g.co/ng/security#xss
+InputSignalNode#UNSET
+Could not find renamed property on target object.
+${e.overriddenName}
+InjectionToken ${this._desc}
+. Dependency path: ${t.join(" > ")} > ${e}
+{${o.join(", ")}}
+${n}${r?"("+r+")":""}[${i}]: ${e.replace(Vy,
+NullInjectorError: No provider for ${ge(t)}!
+NullInjectorError
+Type ${ge(e)} does not have '\u0275mod' property.
+R3Injector[${t.join(", ")}]
+__ngSimpleChanges__
+__ignore_ng_zone__
+__scheduler_tick__
+mark_feature_usage
+Exception in onSerialize callback:
+Exception while restoring TransferState for app
+CHANGE_DETECTION
+AFTER_NEXT_RENDER
+NgAfterNextRender
+__nghDeferData__
+SafeValue must use [property]=binding: ${this.changingThisBreaksApplicationSecurity} (see ${Of})
+Required a safe ${t}, got a ${n} (see ${Of})
+HasDecoratorInputTransform
+^(\\d+)*(${Yh}|${Zh})*(.*)
+No component factory found for ${ge(t)}.
+Standalone[${n.type.name}]
+NgZone_CoalesceEvent
+${e} must be a TemplateRef, but received '${ge(t)}'.
+application/json
+${Lb}, ${Fb}, */*
+DownloadProgress
+proxy-authorization
+${t}=${e.getAll(t)}
+NgHttpTransferCache
+style[${fs}="${t}"],link[${fs}="${t}"]
+http://www.w3.org/2000/svg
+http://www.w3.org/1999/xhtml
+http://www.w3.org/1999/xlink
+http://www.w3.org/XML/1998/namespace
+http://www.w3.org/2000/xmlns/
+http://www.w3.org/1998/Math/MathML
+_ngcontent-${qg}
+Unsupported event target ${t} for event ${n}
+NoHttpTransferCache
+HttpTransferCacheOptions
+IncrementalHydration
+/${Vr(t.root,!0)}
+#${T_(t.fragment)}
+${i}:${Vr(o,!1)}
+${n}(${r.join("//")})
+${i}:${Vr(r,!1)}
+${Es(e)}/${n[0]}
+${Es(e)}/(${n.join("//")})
+${Wc(e.path)}${x_(e.parameters)}
+;${Wc(t)}=${Wc(n)}
+${ms(n)}=${ms(i)}
+${ms(n)}=${ms(r)}
+NavigationCancel
+RoutesRecognized
+GuardsCheckStart
+RouteConfigLoadStart
+RouteConfigLoadEnd
+ChildActivationStart
+ChildActivationEnd
+NavigationSkipped
+NavigationStart(id: ${this.id}, url: '${this.url}')
+NavigationEnd(id: ${this.id}, url: '${this.url}', urlAfterRedirects: '${this.urlAfterRedirects}')
+SupersededByNewNavigation
+NoDataFromResolver
+IgnoredSameUrlNavigation
+IgnoredByUrlHandlingStrategy
+NavigationCancel(id: ${this.id}, url: '${this.url}')
+NavigationError(id: ${this.id}, url: '${this.url}', error: ${this.error})
+RoutesRecognized(id: ${this.id}, url: '${this.url}', urlAfterRedirects: '${this.urlAfterRedirects}', state: ${this.state})
+GuardsCheckStart(id: ${this.id}, url: '${this.url}', urlAfterRedirects: '${this.urlAfterRedirects}', state: ${this.state})
+GuardsCheckEnd(id: ${this.id}, url: '${this.url}', urlAfterRedirects: '${this.urlAfterRedirects}', state: ${this.state}, shouldActivate: ${this.shouldActivate})
+ResolveStart(id: ${this.id}, url: '${this.url}', urlAfterRedirects: '${this.urlAfterRedirects}', state: ${this.state})
+ResolveEnd(id: ${this.id}, url: '${this.url}', urlAfterRedirects: '${this.urlAfterRedirects}', state: ${this.state})
+RouteConfigLoadStart(path: ${this.route.path})
+RouteConfigLoadEnd(path: ${this.route.path})
+ChildActivationStart(path: '${this.snapshot.routeConfig&&this.snapshot.routeConfig.path||""}')
+ChildActivationEnd(path: '${this.snapshot.routeConfig&&this.snapshot.routeConfig.path||""}')
+ActivationStart(path: '${this.snapshot.routeConfig&&this.snapshot.routeConfig.path||""}')
+ActivationEnd(path: '${this.snapshot.routeConfig&&this.snapshot.routeConfig.path||""}')
+${this.position[0]}, ${this.position[1]}
+Scroll(anchor: '${this.anchor}', position: '${t}')
+Route: ${e.path}
+TreeNode(${this.value})
+Future(${this._futureSnapshot})
+Route(url:'${t}', path:'${n}')
+{ ${e.children.map(Cm).join(", ")} }
+routerOutletData
+ngNavigationCancelingError
+NavigationCancelingError: ${e||""}
+pathParamsChange
+pathParamsOrQueryParamsChange
+paramsOrQueryParamsChange
+'${t.segmentGroup}'
+emptyRouterOutlet
+Route: ${o.path}
+.banner-carousel
+<i class="fa-solid fa-chevron-left"></i>
+<i class="fa-solid fa-chevron-right"></i>
+.guilt-image-carousel
+.owl-carousel:not(.banner-carousel):not(.guilt-image-carousel)
+assets/images/creamday/logo.jpeg
+position-relative
+banner-carousel-wrapper
+banner-slide-image
+assets/images/creamday/banner2.jpg
+assets/images/creamday/banner1.jpg
+assets/images/creamday/banner.jpg
+art-rightbottomimage
+assets/images/relive-rightbottomimage.png
+assets/images/relive-circle.png
+assets/images/relive-doted.png
+text-decoration-none
+assets/images/relive-triangle.png
+../assets/images/creamday/crmyimg.jpg
+classic-leftimage
+assets/images/classic-leftimage.png
+classic-rightimage
+assets/images/classic-rightimage.png
+classic_image_box
+../assets/images/creamday/crmyimg1.jpg
+classic_box_content
+../assets/images/creamday/crmyimg2.jpg
+../assets/images/creamday/crmyimg3.jpg
+../assets/images/creamday/crmyimg4.jpg
+../assets/images/creamday/crmyimg5.jpg
+../assets/images/creamday/crmyimg6.jpg
+../assets/images/creamday/crmyimg7.jpg
+../assets/images/creamday/crmyimg8.jpg
+guilt-righttopimage
+assets/images/faq-rightimage.png
+guilt-image-carousel
+../assets/images/creamday/crmyimg9.jpg
+A bowl of colorful ice cream with fresh fruit
+../assets/images/creamday/crmyimg11.jpg
+A selection of ice cream cups with berries
+../assets/images/creamday/crmyimg10.jpg
+A colorful assortment of ice cream scoops
+swiper-container
+../assets/images/creamday/crmyimg13.jpg
+../assets/images/creamday/crmyimg14.jpg
+../assets/images/creamday/crmyimg12.jpg
+swiper-button-next
+swiper-button-prev
+assets/images/limited-doted.png
+assets/images/limited-wave.png
+limited-leftimage
+assets/images/limited-leftimage.png
+limited-rightimage
+assets/images/limited-rightimage.png
+testimonial2-con
+testimonial_content
+testimonial-sideimage
+assets/images/testimonial-sideimage.png
+testimonialcarousel
+testimonial_carousel
+carousel-indicators
+#testimonialcarousel
+pagination_outer
+carousel-control-prev
+carousel-control-next
+assets/images/insta-image1.jpg
+assets/images/insta-image2.jpg
+assets/images/insta-image3.jpg
+assets/images/insta-image4.jpg
+assets/images/insta-image5.jpg
+assets/images/insta-image6.jpg
+Loading Sweetness...
+Enjoy premium ice cream, crafted fresh with the finest ingredients and a whole lot of love.
+From timeless favorites to exciting new creations, every scoop is made to bring a little joy to your day. Explore our handcrafted flavors, rich and creamy textures, and delicious treats made for sharing with family and friends. There\u2019s always something special waiting for you at Creamy Day.
+Explore Our Menu
+Discover our most loved ice cream flavors crafted with passion.
+Cups Flouvers & Tubs
+Creamy vanilla ice cream topped with cherry.
+Bars & Juicy Sticks
+Rich chocolate ice cream with chunks of brownie.
+Strawberry ice cream layered with shortcake
+Refreshing mint ice cream with chocolate chips.
+Enjoy creamy, dairy-free ice cream that\u2019s both tasty and kind to the planet.
+Delicious Flavors Made With Only the Best Plant- Based Ingredients.
+Browse Creamy Day
+Discover your perfect ice cream flavor at Creamy Day!
+Limited Time Offer!
+All Premium Ice Creams!
+\u201CQuia voluptas aspernatur aurodit aut fugit, beatae vitae dicta sunt explicabo nemo enim ipsam voluptatem sed neatae vitae dicta ripiscing elit, sed do euismod tempor incidunt labore are dolore magna aliqua ut enim a minim adipiscing elit, sed do euismod tempor incidunt labore minima veniam.\u201D
+\u201CBeatae vitae dicta sunt explicabo nemo enim ipsam voluptatem quia voluptas aspernatur aur odit aut fugit, sed neatae vitae dicta ripiscing elit, sed do euismod tempor incidunt labore aredolore magna aliqua ut enim ad minim adipiscing elit, sed do euismod tempor incidunt labore minima veniam.\u201D
+Fergus Douchebag
+\u201CTempor incidunt labore are dolore magna aliqua ut enim a beatae vitae dicta sunt explicabo nemo enim ipsam voluptatem quia voluptas aspernatur aurodit aut fugit, sed neatae vitae dicta ripiscing elit, sed do euismod minim adipiscing elit, sed do euismod tempor incidunt labore minima veniam.\u201D
+\u201CIncidunt labore are dolore magna aliqua ut enim a minim adipiscing elit, sed do euismod tempor incidunt labore minima veniam. Beatae vitae dicta sunt explicabo nemo enim ipsam voluptatem quia voluptas aspernatur aurodit aut fugit, sed neatae vitae dicta ripiscing elit, sed do euismod tempor\u201D
+#preloader[_ngcontent-%COMP%]{position:fixed;top:0;left:0;width:100%;height:100%;background:#fff8f4;display:flex;justify-content:center;align-items:center;z-index:999999;transition:.5s ease}#preloader.hide[_ngcontent-%COMP%]{opacity:0;visibility:hidden}.ice-loader[_ngcontent-%COMP%]{text-align:center}.ice-loader[_ngcontent-%COMP%]   img[_ngcontent-%COMP%]{width:140px;margin-bottom:25px;animation:_ngcontent-%COMP%_float 2s ease-in-out infinite}.loader-text[_ngcontent-%COMP%]{font-size:20px;font-weight:600;color:#ff6b81;margin-bottom:20px;font-family:inherit}.loader-bar[_ngcontent-%COMP%]{width:220px;height:8px;background:#ffe3e8;border-radius:50px;overflow:hidden;margin:auto}.loader-bar[_ngcontent-%COMP%]   span[_ngcontent-%COMP%]{display:block;width:0%;height:100%;background:linear-gradient(90deg,#ff6b81,#ffb347,#ff6b81);animation:_ngcontent-%COMP%_loading 2s linear infinite}@keyframes _ngcontent-%COMP%_loading{0%{width:0%}50%{width:70%}to{width:100%}}@keyframes _ngcontent-%COMP%_float{0%,to{transform:translateY(0)}50%{transform:translateY(-10px)}}[_nghost-%COMP%]   .insta-con[_ngcontent-%COMP%]{margin-bottom:0}[_nghost-%COMP%]     .classic-con .classic_content h2{max-width:100%;font-size:clamp(18px,4.2vw,56px);line-height:1.1;white-space:nowrap}[_nghost-%COMP%]     .classic-con .classic_wrapper .owl-stage{display:flex;align-items:stretch}[_nghost-%COMP%]     .classic-con .classic_wrapper .owl-item{display:flex}[_nghost-%COMP%]     .classic-con .classic_wrapper .item, [_nghost-%COMP%]     .classic-con .classic_wrapper .classic-box{width:100%}[_nghost-%COMP%]     .classic-con .classic_wrapper .classic-box{display:flex;flex-direction:column}[_nghost-%COMP%]     .classic-con .classic_wrapper .classic_box_content{flex:1}[_nghost-%COMP%]     .guilt-con .guilt_wrapper{overflow:hidden;background-image:none}[_nghost-%COMP%]     .guilt-con .guilt-image-carousel{width:100%;height:100%}[_nghost-%COMP%]     .guilt-con .guilt-image-carousel .owl-stage-outer, [_nghost-%COMP%]     .guilt-con .guilt-image-carousel .owl-stage, [_nghost-%COMP%]     .guilt-con .guilt-image-carousel .owl-item{height:100%}[_nghost-%COMP%]     .guilt-con .guilt-image-carousel .guilt-image{display:block;width:100%;height:100%;margin:0;overflow:hidden}[_nghost-%COMP%]     .guilt-con .guilt-image-carousel .guilt-image img{display:block;width:100%;height:100%;object-fit:cover}[_nghost-%COMP%]     .guilt-con .guilt-image-carousel:not(.owl-loaded) .guilt-image:not(:first-child){display:none}[_nghost-%COMP%]     .guilt-con .guilt-image-carousel .owl-dots{position:absolute;right:0;bottom:16px;left:0;display:flex;justify-content:center;gap:8px;margin:0}[_nghost-%COMP%]     .guilt-con .guilt-image-carousel .owl-dots .owl-dot span{width:9px;height:9px;margin:0;background:#ffffffa6}[_nghost-%COMP%]     .guilt-con .guilt-image-carousel .owl-dots .owl-dot.active span{width:22px;border-radius:8px;background:var(--e-global-color-accent)}@media (max-width: 767px){[_nghost-%COMP%]     .guilt-con .guilt_wrapper{height:500px}}@media (max-width: 575px){[_nghost-%COMP%]     .guilt-con .guilt_wrapper{height:440px}[_nghost-%COMP%]     .guilt-con .guilt-image-carousel .guilt-image img{width:100%}}
+app-privacypolicy
+data-wow-duration
+terms_condition_text
+This Privacy Policy has been compiled to better serve those who are concerned with how their 'Personally Identifiable Information' (PII) is being used online. PII, as described in Indian privacy laws and global information security standards, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect, or otherwise handle your PII in accordance with our website.
+What personal information do we collect?
+When you visit our website, book an appointment, or sign up for updates, you may be asked to enter your name, email address, phone number, or other details to help enhance your experience.
+When do we collect information?
+We collect information from you when you register on our site, book an appointment, fill out a form, or enter information on our website.
+How do we use your information?
+We may use the information we collect from you when you book a service, sign up for our newsletter, respond to a survey or marketing communication, browse the website, or use certain other site features in the following ways:
+\u2022	To follow up with inquiries via email, phone, or live chat.
+\u2022	To improve our website to better serve you.
+\u2022	To send periodic emails regarding promotions, offers, and salon updates.
+How do we protect your information?
+Our website is regularly scanned for security vulnerabilities to make your visit as safe as possible. \u2022	We do not use malware scanning. \u2022	We do not use an SSL certificate. \u2022	We only provide general information and salon services. We do not request sensitive personal information such as credit card details online.
+Do we use cookies?
+We do not use cookies for tracking purposes. You can choose to turn off cookies through your browser settings. However, disabling cookies may impact your browsing experience on our website.
+Third-Party Disclosure
+We do not sell, trade, or otherwise transfer your Personally Identifiable Information to outside parties.
+Third-Party Links
+We do not include or offer third-party products or services on our website.
+We use Google AdSense Advertising on our website. Google, as a third-party vendor, uses cookies to serve ads based on previous visits to our site and other websites. Users may opt out of Google's use of the DART cookie by visiting Google\u2019s Ad and Content Network privacy policy.
+California Online Privacy Protection Act (CalOPPA)
+As per CalOPPA requirements: \u2022	Users can visit our site anonymously. \u2022	Our Privacy Policy is accessible on our homepage or the first significant page after entering our website.
+\u2022	The Privacy Policy link includes the word 'Privacy' and is easy to find.
+\u2022	Users will be notified of any Privacy Policy changes on this page.
+\u2022	Users can change their personal information by logging into their account (if applicable).
+How does our site handle Do Not Track signals? We honor Do Not Track signals and do not use advertising or tracking mechanisms when a Do Not Track (DNT) browser setting is enabled.
+Does our site allow third-party behavioral tracking?
+We do not allow third-party behavioral tracking.
+Children's Online Privacy Protection Act (COPPA)
+We do not market to children under the age of 13.
+Fair Information
+Practices In case of a data breach, we will take the following actions:
+\u2022	Notify users via email within 7 business days.
+\u2022	Notify users via an in-site notification within 1 business day.
+\u2022	We adhere to the Individual Redress Principle, which allows individuals to seek legal action against non-compliance with data protection laws.
+CAN-SPAM Act Compliance
+To be in accordance with CAN-SPAM, we agree to the following:
+\u2022	Not use false or misleading subject lines or email addresses.
+\u2022	Identify marketing messages as advertisements in a reasonable way.
+\u2022	Include our business\u2019s physical address in email communications.
+\u2022	Monitor third-party email marketing services for compliance.
+\u2022	Honor opt-out/unsubscribe requests promptly.
+\u2022	Provide users with an easy way to unsubscribe by following the link at the bottom of each email.
+If at any time you wish to unsubscribe from receiving future emails, you can email us, and we will promptly remove you from all correspondence.
+Our Contact Information
+Alora Unisex Salon, Rajahmundry, Andhra Pradesh.
+sub_banner_outer
+background-image
+url('assets/images/creamday/ice2.jpg')
+background-position
+background-repeat
+sub_banner_content
+journey-rightimage
+assets/images/special-rightimage.png
+assets/images/creamday/ice5.jpg
+mission-triangle
+assets/images/mission-triangle.png
+assets/images/mission-cross.png
+assets/images/mission-wave.png
+assets/images/creamday/ice6.jpg
+commitment_content
+assets/images/commitment-icon1.png
+assets/images/commitment-icon2.png
+commitment_wrapper
+commitment-image
+assets/images/commitment-image.png
+assets/images/commitment-icon3.png
+assets/images/commitment-icon4.png
+statistic_content
+Began With a Simple Dream
+Creamy Day was born from a passion to craft the finest ice cream experience. Using only premium, natural ingredients sourced from trusted suppliers, we create handcrafted flavors that range from timeless classics to innovative seasonal creations. Every batch is made with love and attention to detail, ensuring unmatched quality and freshness in every scoop.
+At Creamy Day, we believe everyone deserves to enjoy exceptional ice cream. That's why we offer a diverse selection including dairy-free, vegan, and gluten-free options, ensuring that every guest finds their perfect treat.
+Our Mission is to Create Joyful Moments
+At Creamy Day, we're dedicated to creating more than just delicious ice cream \u2013 we craft experiences. We strive to provide a warm, welcoming space where families, friends, and ice cream lovers of all ages can gather, celebrate life's sweet moments, and create cherished memories together. Our commitment extends beyond exceptional flavors to building a community centered around happiness and connection.
+At Creamy Day, we promise quality, freshness, and service that exceeds expectations.
+Premium Ingredients
+We use only the finest natural ingredients in every batch!
+Handcrafted Quality
+Every scoop is carefully crafted in small batches for freshness.
+Inclusive Options
+Dairy-free, vegan, and gluten-free choices for everyone.
+Customer Satisfaction
+Your happiness is our priority with every delicious scoop!
+Creamy Day by the numbers \u2013 a sweet success story.
+Satisified Clients
+Years of Experience
+Employees Working
+../assets/images/creamday/img3.png
+Sandaes Ice Creams
+../assets/images/creamday/img1.jpg
+../assets/images/creamday/img.png
+Family Pack Ice Creams
+../assets/images/creamday/img4.png
+../assets/images/creamday/img2.png
+url('assets/images/creamday/ice3.jpg')
+Special Flavours
+Discover the favorites that keep our customers coming back for more.
+[_nghost-%COMP%]     .classic-con .classic-box{cursor:pointer;transition:all .3s ease-in-out}
+url('assets/images/creamday/ice4.jpg')
+assets/images/contact-icon1.png
+https://www.google.com/maps/place/21+King+St,+Melbourne+VIC+3000,+Australia/@-37.8199805,144.9529083,18z/data=!4m6!3m5!1s0x6ad65d52754eaecb:0x22f367daf52cbd47!8m2!3d-37.819936!4d144.9570765!16s%2Fg%2F11c2dj2n2c?entry=ttu
+assets/images/contact-icon2.png
+assets/images/contact-icon3.png
+https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3627.563765762152!2d81.7970587!3d16.955068!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a37a3413ce98733%3A0xe0d34e6d48fca4e1!2sCreamy%20Day!5e1!3m2!1sen!2sin!4v1783440705218!5m2!1sen!2sin
+no-referrer-when-downgrade
+Reach out and connect with us today for any inquiries or assistance!
+D.NO. 18-322, Industrial Park, Plot No. C-5 & C-6, Dowlaiswaram, E.G. Dist
+creamyday@rediffmail.com
+.map-wrapper[_ngcontent-%COMP%]{background:transparent;width:100%}.map-frame[_ngcontent-%COMP%]{display:block;width:100%;min-height:500px}
+assets/images/creamday/1.jpeg
+assets/images/creamday/2.jpeg
+assets/images/creamday/3.jpeg
+assets/images/creamday/4.jpeg
+assets/images/creamday/5.jpeg
+assets/images/creamday/6.jpeg
+assets/images/creamday/7.jpeg
+assets/images/creamday/8.jpeg
+assets/images/creamday/9.jpeg
+assets/images/creamday/11.jpeg
+assets/images/creamday/10.jpeg
+menu-scroll-mobile
+load-more-container d-none d-md-flex
+show-less-container d-none d-md-flex
+load-more-container
+show-less-container
+.menu-section[_ngcontent-%COMP%]{width:100%;min-height:100vh;background:url(/assets/images/creamday/ice1.jpg) center center/cover no-repeat;display:flex;justify-content:center;align-items:center;padding:80px 20px;position:relative}.menu-section[_ngcontent-%COMP%]:before{content:"";position:absolute;inset:0;background:#00000059}.container[_ngcontent-%COMP%]{position:relative;z-index:2;width:100%;max-width:1300px;text-align:center}.container[_ngcontent-%COMP%]   h1[_ngcontent-%COMP%]{color:#fff;font-size:60px;margin-bottom:60px;font-weight:700;text-transform:uppercase;letter-spacing:3px}.menu-grid[_ngcontent-%COMP%]{display:grid;grid-template-columns:repeat(3,1fr);gap:30px}.menu-item[_ngcontent-%COMP%]{overflow:hidden;border-radius:15px;box-shadow:0 10px 25px #0006;transition:.4s;background:#fef4ea}.menu-item[_ngcontent-%COMP%]   img[_ngcontent-%COMP%]{width:100%;object-fit:cover;display:block;transition:.5s}.menu-item[_ngcontent-%COMP%]:hover   img[_ngcontent-%COMP%]{transform:scale(1.08)}.load-more-container[_ngcontent-%COMP%]{display:flex;flex-direction:column;align-items:center;gap:15px;margin-top:60px}.load-more-btn[_ngcontent-%COMP%]{background:linear-gradient(135deg,var(--e-global-color-accent) 0%,#ff6b9d 100%);color:#fff;border:none;padding:15px 40px;font-size:16px;font-weight:600;border-radius:50px;cursor:pointer;transition:all .3s ease;box-shadow:0 5px 20px #0003;text-transform:uppercase;letter-spacing:1px}.load-more-btn[_ngcontent-%COMP%]:hover{transform:translateY(-3px);box-shadow:0 10px 30px #0000004d}.load-more-btn[_ngcontent-%COMP%]:active{transform:translateY(-1px)}.load-more-btn[_ngcontent-%COMP%]   i[_ngcontent-%COMP%]{margin-left:10px}.remaining-text[_ngcontent-%COMP%]{color:#fff;font-size:14px;margin:0;opacity:.8}.show-less-container[_ngcontent-%COMP%]{display:flex;justify-content:center;margin-top:60px}.show-less-btn[_ngcontent-%COMP%]{background:linear-gradient(135deg,#6c757d,#5a6268);color:#fff;border:none;padding:15px 40px;font-size:16px;font-weight:600;border-radius:50px;cursor:pointer;transition:all .3s ease;box-shadow:0 5px 20px #0003;text-transform:uppercase;letter-spacing:1px}.show-less-btn[_ngcontent-%COMP%]:hover{transform:translateY(-3px);box-shadow:0 10px 30px #0000004d;background:linear-gradient(135deg,#5a6268,#495057)}.show-less-btn[_ngcontent-%COMP%]:active{transform:translateY(-1px)}.show-less-btn[_ngcontent-%COMP%]   i[_ngcontent-%COMP%]{margin-left:10px}@media (max-width: 991px){.container[_ngcontent-%COMP%]   h1[_ngcontent-%COMP%]{font-size:45px}.menu-grid[_ngcontent-%COMP%]{grid-template-columns:repeat(2,1fr)}}@media (max-width: 767px){.menu-section[_ngcontent-%COMP%]{padding:60px 15px}.container[_ngcontent-%COMP%]   h1[_ngcontent-%COMP%]{font-size:34px;margin-bottom:35px}.menu-grid[_ngcontent-%COMP%]{grid-template-columns:1fr;gap:20px}.menu-grid.menu-scroll-mobile[_ngcontent-%COMP%]{display:flex;flex-wrap:nowrap;overflow-x:auto;gap:15px;padding-bottom:10px;scroll-behavior:smooth;-webkit-overflow-scrolling:touch}.menu-grid.menu-scroll-mobile[_ngcontent-%COMP%]::-webkit-scrollbar{height:6px}.menu-grid.menu-scroll-mobile[_ngcontent-%COMP%]::-webkit-scrollbar-track{background:#ffffff1a;border-radius:10px}.menu-grid.menu-scroll-mobile[_ngcontent-%COMP%]::-webkit-scrollbar-thumb{background:#ffffff80;border-radius:10px}.menu-grid.menu-scroll-mobile[_ngcontent-%COMP%]::-webkit-scrollbar-thumb:hover{background:#fffc}.menu-item[_ngcontent-%COMP%]{flex:0 0 80%;min-width:280px}}
+*+/=?^_`{|}~-]+(?:\.[a-zA-Z0-9!#$%&
+[class.ng-untouched]
+[class.ng-touched]
+[class.ng-pristine]
+[class.ng-dirty]
+[class.ng-valid]
+[class.ng-invalid]
+[class.ng-pending]
+[class.ng-submitted]
+Application submitted successfully! We will contact you soon.
+url('assets/images/creamday/ice7.jpg')
+linear-gradient(to bottom, #fff 0%, #f8f9fa 100%)
+0 10px 40px rgba(0,0,0,0.3)
+transform 0.3s ease
+assets/images/creamday/gallery.jpg
+Team Making Ice Cream
+transform 0.4s ease
+position-absolute
+opacity 0.4s ease
+assets/images/creamday/gallery1.jpg
+assets/images/creamday/gallery2.jpg
+Team Collaboration
+assets/images/creamday/gallery3.jpg
+Quality Products
+assets/images/creamday/gallery4.jpg
+assets/images/creamday/gallery5.jpg
+assets/images/creamday/gallery6.jpg
+assets/images/creamday/gallery7.jpg
+.gallery_item[_ngcontent-%COMP%]{transition:all .3s ease}.gallery_item[_ngcontent-%COMP%]:hover   img[_ngcontent-%COMP%]{transform:scale(1.15) rotate(2deg)}.gallery_item[_ngcontent-%COMP%]:hover   .gallery_overlay[_ngcontent-%COMP%]{opacity:1!important}.gallery_item[_ngcontent-%COMP%]:hover{transform:translateY(-10px);box-shadow:0 15px 50px #0006!important}@media (max-width: 768px){.gallery-section[_ngcontent-%COMP%]{padding:60px 0!important;min-height:auto!important}.gallery_item[_ngcontent-%COMP%]{min-height:250px}}
+home2_banner_outer
+top-header-scroll
+navbar-expand-lg
+assets/images/creamday/Logo.svg
+#navbarSupportedContent
+navbarSupportedContent
+Toggle navigation
+navbar-toggler-icon
+10px 20px !important
+Welcome to Creamy Day - Premium Ice Cream Experience
+\u{1F366} Enjoy Fresh & Delicious Ice Cream flavors
+\u2744\uFE0F Special Discounts Available on Orders Above \u20B950
+\u{1F69A} Free Delivery on Orders Over \u20B930
+\u2B50 Try Our New Summer Collection Now
+\u{1F389} Join Our Loyalty Program & Get Exclusive Rewards
+cream-footer__banner
+cream-footer__eyebrow
+cream-footer__button
+cream-footer__decoration
+cream-footer__main
+cream-footer__brand
+cream-footer__logo-link
+assets/images/creamday/footerlogo.png
+Creamy Day \u2014 Make The Day Happy
+cream-footer__logo
+Footer navigation
+cream-footer__column
+cream-footer__heading
+cream-footer__links
+cream-footer__contact
+cream-footer__contact-item
+cream-footer__icon
+mailto:creamyday@rediffmail.com
+cream-footer__bottom
+https://godavariwave.com/
+noopener noreferrer
+A LITTLE JOY IN EVERY SCOOP
+Make the day happy.
+Find your new favorite flavor at Creamy Day.
+Explore our menu
+Handcrafted treats, made to bring a little sweetness to your day.
+Visit or get in touch
+D.No. 18-322, Industrial Park, Plot No. C-5 & C-6, Dowlaiswaram, E.G. Dist
+Copyright \xA9 2026 Creamy Day. All rights reserved.
+Made with care by
+Godavari Wave Technologies
+.cream-footer[_ngcontent-%COMP%]{position:relative;overflow:hidden;background:#fff9ed;color:#2c2140}.cream-footer__banner[_ngcontent-%COMP%]{position:relative;display:flex;align-items:center;justify-content:space-between;gap:28px;overflow:hidden;margin-top:40px;padding:32px 44px;border-radius:24px;background:linear-gradient(110deg,#f83d8e,#e92679);box-shadow:0 14px 35px #8b285b24;color:#fff}.cream-footer__banner[_ngcontent-%COMP%] > div[_ngcontent-%COMP%], .cream-footer__button[_ngcontent-%COMP%]{position:relative;z-index:1}.cream-footer__eyebrow[_ngcontent-%COMP%]{display:block;margin-bottom:8px;color:#ffffffd1;font-size:11px;font-weight:700;letter-spacing:.14em}.cream-footer__banner[_ngcontent-%COMP%]   h2[_ngcontent-%COMP%]{margin:0 0 4px;color:#fff;font-family:Berkshire Swash,serif;font-size:clamp(26px,3vw,38px);font-weight:400;line-height:1.2}.cream-footer__banner[_ngcontent-%COMP%]   p[_ngcontent-%COMP%]{margin:0;color:#ffffffe0;font-size:15px;line-height:1.5}.cream-footer__button[_ngcontent-%COMP%]{display:inline-flex;flex:0 0 auto;align-items:center;justify-content:center;gap:12px;padding:14px 20px;border-radius:30px;background:#fff;color:#683292;font-size:14px;font-weight:700;text-decoration:none;transition:transform .18s ease,background-color .18s ease}.cream-footer__button[_ngcontent-%COMP%]:hover{transform:translateY(-2px);background:#fff1c9;color:#683292}.cream-footer__decoration[_ngcontent-%COMP%]{position:absolute;right:26%;bottom:-33px;color:#ffffff1a;font-size:130px;transform:rotate(-16deg)}.cream-footer__main[_ngcontent-%COMP%]{display:grid;grid-template-columns:minmax(240px,1.15fr) minmax(140px,.65fr) minmax(300px,1.2fr);gap:70px;padding:54px 0 42px}.cream-footer__logo-link[_ngcontent-%COMP%]{display:inline-flex;align-items:center;justify-content:center;width:190px;height:120px;margin-bottom:15px;overflow:hidden;border:1px solid #f0e9db;border-radius:16px;background:#fff;box-shadow:0 8px 22px #3a240f0f}.cream-footer__logo[_ngcontent-%COMP%]{display:block;width:100%;height:100%;object-fit:contain}.cream-footer__brand[_ngcontent-%COMP%] > p[_ngcontent-%COMP%]{max-width:260px;margin:0;color:#71677b;font-size:14px;line-height:1.7}.cream-footer__heading[_ngcontent-%COMP%]{margin:4px 0 20px;color:#38224d;font-family:inherit;font-size:16px;font-weight:700;line-height:1.4}.cream-footer__links[_ngcontent-%COMP%]{display:grid;gap:11px;margin:0;padding:0;list-style:none}.cream-footer__links[_ngcontent-%COMP%]   a[_ngcontent-%COMP%], .cream-footer__contact-item[_ngcontent-%COMP%]   a[_ngcontent-%COMP%]{color:#71677b;font-size:14px;line-height:1.55;text-decoration:none;transition:color .18s ease}.cream-footer__links[_ngcontent-%COMP%]   a[_ngcontent-%COMP%]:hover, .cream-footer__contact-item[_ngcontent-%COMP%]   a[_ngcontent-%COMP%]:hover{color:#e92679}.cream-footer__contact-item[_ngcontent-%COMP%]{display:flex;align-items:flex-start;gap:13px;margin-bottom:16px}.cream-footer__contact-item[_ngcontent-%COMP%]:last-child{margin-bottom:0}.cream-footer__contact-item[_ngcontent-%COMP%]   p[_ngcontent-%COMP%]{margin:2px 0 0;color:#71677b;font-size:14px;line-height:1.6}.cream-footer__icon[_ngcontent-%COMP%]{display:grid;flex:0 0 34px;width:34px;height:34px;place-items:center;border-radius:50%;background:#fce4ed;color:#e92679;font-size:13px}.cream-footer__bottom[_ngcontent-%COMP%]{display:flex;justify-content:space-between;gap:20px;padding:18px 0;border-top:1px solid #eee4d4}.cream-footer__bottom[_ngcontent-%COMP%]   p[_ngcontent-%COMP%]{margin:0;color:#857b8c;font-size:12px;line-height:1.6}.cream-footer__bottom[_ngcontent-%COMP%]   a[_ngcontent-%COMP%]{color:#683292;font-weight:600;text-decoration:none}.cream-footer__bottom[_ngcontent-%COMP%]   a[_ngcontent-%COMP%]:hover{color:#e92679}@media (max-width: 991px){.cream-footer__main[_ngcontent-%COMP%]{grid-template-columns:minmax(220px,1fr) minmax(150px,.65fr) minmax(250px,1fr);gap:38px}}@media (max-width: 767px){.cream-footer__banner[_ngcontent-%COMP%]{padding:28px}.cream-footer__main[_ngcontent-%COMP%]{grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:34px 28px;padding:42px 0 34px}.cream-footer__brand[_ngcontent-%COMP%]{grid-column:1/-1}}@media (max-width: 575px){.cream-footer__banner[_ngcontent-%COMP%]{align-items:flex-start;flex-direction:column;gap:18px;padding:26px 22px;border-radius:0 0 18px 18px}.cream-footer__decoration[_ngcontent-%COMP%]{right:-10px;bottom:12px;font-size:100px}.cream-footer__main[_ngcontent-%COMP%]{grid-template-columns:1fr;gap:30px;padding:34px 0 30px}.cream-footer__brand[_ngcontent-%COMP%]{grid-column:auto}.cream-footer__heading[_ngcontent-%COMP%]{margin-bottom:14px}.cream-footer__bottom[_ngcontent-%COMP%]{flex-direction:column;gap:6px}}
